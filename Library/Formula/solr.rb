@@ -6,7 +6,7 @@ class Solr < Formula
   sha1 '0cb61d9572516fc627785201b79b3a85e95f877d'
 
   devel do
-    url  'http://www.apache.org/dyn/closer.cgi?path=lucene/solr/4.0.0-BETA/apache-solr-4.0.0-BETA.tgz'
+    url  'http://www.apache.org/dyn/closer.cgi?path=lucene/solr/4.1.0-BETA/solr-4.1.0-BETA.tgz'
     sha1 'b41061400f3c5e0433ae8e01c4a62814be37b712'
     version "4.1.0-BETA"
   end
